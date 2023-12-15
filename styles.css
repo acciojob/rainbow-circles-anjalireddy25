@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.first{
+#outer{
 	width:300px;
 	height:300px;
 	border-radius:50%;
@@ -18,7 +18,7 @@
       justify-content: center;
       align-items: center;
 }
-.third{
+#middle{
 	width:200px;
 	height:200px;
 	background-color:#ffff00;
@@ -36,7 +36,7 @@
       justify-content: center;
       align-items: center;
 }
-.fifth{
+#inner{
 	width:100px;
 	height:100px;
 	background-color:#0000ff;
